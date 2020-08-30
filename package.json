@@ -10,7 +10,8 @@
     "cy:run": "cypress run",
     "cy:open": "cypress open",
     "test": "run-p --race dev cy:run",
-    "master": "git pull && yarn install && yarn build && pm2 restart my-app"
+    "master": "git pull && yarn install && yarn build && pm2 restart my-app",
+    "pm2": "NODE_ENV=production PORT=8585 pm2 start __sapper__/build --no-pmx --name='my-app'"
   },
   "dependencies": {
     "compression": "^1.7.1",
