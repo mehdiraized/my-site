@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Mehd.ir",
+  "description": "Mehdi Rezaei",
+  "icons": {
+    "60": "./icons/favicon-60x60.png",
+    "128": "./icons/favicon-128x128.png",
+    "512": "./icons/favicon-512x512.png"
+  },
+  "developer": {
+    "name": "mehdi rezaei",
+    "url": "https://mehd.ir"
+  }
+}
