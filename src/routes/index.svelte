@@ -81,15 +81,11 @@
       <a href="tel:+989120336636" class="btn btn-outline-primary">Hire Me</a>
 
       <div class="row">
-        <div class="col-1">
-          <i class="ion-ios-telephone icon" />
-        </div>
+        <div class="col-1"><i class="ion-ios-telephone icon" /></div>
         <div class="col-5">
-          <span class="text-left">+98 921 033 66 36</span>
+          <span class="text-left">+98 912 033 66 36</span>
         </div>
-        <div class="col-1">
-          <i class="ion-at icon" />
-        </div>
+        <div class="col-1"><i class="ion-at icon" /></div>
         <div class="col-5">
           <span class="text-left">me@mehd.ir, mehdiraized@gmail.com</span>
         </div>
